@@ -1,16 +1,4 @@
 # googlemap
 
-A new Flutter project.
+![207421681-3dad9d38-ebdc-47b1-9315-dbe1b14c8c7e](https://user-images.githubusercontent.com/108115666/208602028-51813390-6a07-4ad4-a80e-18b4fbea0832.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
